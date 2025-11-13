@@ -2,6 +2,11 @@ body{
     color:blue
 }
 
+<<<<<<< HEAD
 a{
     text-align:left;
+=======
+a {
+    text-align: center;
+>>>>>>> feature/new-page
 }
